@@ -1,2 +1,3 @@
 # html-project
 Welcome to my innaugural github repository,firstweb-page created through html and css only. 🤯 A web-page containing home, menus and logo of gym Fitness Club..🩷🩵🩶 .  An integrated web page designed using thorough styling. cascaded style sheets providing a decent style and look. 💻
+This, is garima this side and I created my first-ever webpage to learn how to make it better and ideally responsive and took a very first step in webd career and I really learned very much from this. Again,this is not a working website, just for learning purpose. It would be great if you will give an honest feedback. 
